@@ -140,5 +140,7 @@ This project does not include a license file by default. Add a `LICENSE` file if
 ## Contact
 
 Maintainer: Akashsharma211
+![WhatsApp Image 2025-12-10 at 17 51 27_4eac54b2](https://github.com/user-attachments/assets/0dde9a00-45af-485c-ac4b-15e25fe0a018)
+![WhatsApp Image 2025-12-10 at 17 51 11_451d7ca4](https://github.com/user-attachments/assets/3f7be3c7-a096-4b14-a8ff-495a2f212764)
 
 Generated README for the ChatZ project.
